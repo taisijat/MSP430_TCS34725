@@ -7,6 +7,9 @@ The library is still very much under construction so feel free to speed up the w
 
 Libraries required:
 **Wire.h** - https://github.com/energia/Energia/blob/master/hardware/msp430/cores/msp430/Wire.h
+**pgmspace.h** - https://github.com/energia/Energia/blob/master/hardware/msp430/cores/msp430/avr/pgmspace.h
+**Stream.h** - https://github.com/energia/Energia/blob/master/hardware/msp430/cores/msp430/Stream.h
+**Print.h** - https://github.com/energia/Energia/blob/master/hardware/msp430/cores/msp430/Print.h
 
 Author: Joe Gibson
 Date: March 2018
